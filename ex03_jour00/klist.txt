@@ -1,0 +1,8 @@
+Credentials cache: API:14471
+        Principal: gdurand@42.FR
+
+  Issued                Expires               Principal
+Aug  4 13:58:37 2015  Aug  4 23:58:37 2015  krbtgt/42.FR@42.FR
+Aug  4 13:58:42 2015  Aug  4 23:58:37 2015  nfs/zfs-student-1.42.fr@42.FR
+Aug  4 13:58:42 2015  Aug  4 23:58:37 2015  nfs/zfs-student-5.42.fr@42.FR
+Aug  4 14:19:38 2015  Aug  4 23:58:37 2015  host/vogsphere-frontend-normal-1.42.fr@42.FR
